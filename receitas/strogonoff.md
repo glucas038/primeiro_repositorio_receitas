@@ -1,4 +1,4 @@
-#Strogonoff de frango
+# Strogonoff de frango
 ## **Ingredientes**
 
   - 1 quilo de peito de frango
